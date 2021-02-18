@@ -1,14 +1,15 @@
-# Curso Java Básico Digital Innovation One 
+# Bootcamp DIO Backend Developer Carrefour - aula "desenvolvimento básico em java" 
 
 https://digitalinnovation.one
 
-Tive a honra de fazer parceria com o pessoal da [Digital Innovation One](https://digitalinnovation.one), com dois módulos 
-de Java Básico: 
+Prof. Marco Paulo Ollivier
+[Repositório](https://github.com/marcopollivier-classes/class-dio-formacao-java-basico)
+
+## Tópicos:
+
 - Orientação a Objetos com Java; e 
 - Trabalhando com Datas. 
 
-Durante essa parceria, preparei as apresentações e os vídeos apresentando esse conteúdo e disponibilizo aqui para quem 
-quiser aprender um pouco mais sobre o assunto. 
 
 ## [Modulo: Orientação a Objetos](https://medium.com/marcopollivier/java-basico-orientacao-a-objetos-com-java-6bca04020cbf)
 
@@ -31,3 +32,4 @@ quiser aprender um pouco mais sobre o assunto.
 - Trabalhando com Java Calendar
 - O pacote java.text.DateFormat
 - Datas no Java 8+
+
